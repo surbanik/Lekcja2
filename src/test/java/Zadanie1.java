@@ -62,7 +62,7 @@ public class Zadanie1 {
                 System.out.println("Wrong token size entered");
             }
         }catch(InputMismatchException e){
-            System.out.println("Given number is not intiger. GAME OVER");
+            System.out.println("Given number is not intiger.");
         }
     }
 }
